@@ -1,0 +1,16 @@
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/bin/Debug/net9.0/ProductManagement.Application.deps.json
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/bin/Debug/net9.0/ProductManagement.Application.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/bin/Debug/net9.0/ProductManagement.Application.pdb
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/bin/Debug/net9.0/ProductManagement.Domain.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/bin/Debug/net9.0/ProductManagement.Domain.pdb
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.csproj.AssemblyReference.cache
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.AssemblyInfoInputs.cache
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.AssemblyInfo.cs
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.csproj.CoreCompileInputs.cache
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.sourcelink.json
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductM.070BD2B7.Up2Date
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/refint/ProductManagement.Application.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ProductManagement.Application.pdb
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Application/obj/Debug/net9.0/ref/ProductManagement.Application.dll

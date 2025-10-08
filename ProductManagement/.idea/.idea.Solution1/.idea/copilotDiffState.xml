@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/ProductManagement.Application/Features/Product/Commands/CreateProductCommand.cs">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/ProductManagement.Application/Features/Product/Commands/CreateProductCommand.cs" />
+              <option name="updatedContent" value="using MediatR;&#10;&#10;namespace ProductManagement.Application.Features.Product.Commands;&#10;&#10;public class CreateProductCommand : IRequest&lt;Guid&gt;&#10;{&#10;    public string Name { get; set; }&#10;    public decimal Price { get; set; }&#10;    public int Stock { get; set; }&#10;}&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProductManagement.Application/Features/Product/Commands/CreateProductCommandHandler.cs">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/ProductManagement.Application/Features/Product/Commands/CreateProductCommandHandler.cs" />
+              <option name="updatedContent" value="using MediatR;&#10;using ProductManagement.Domain;&#10;using ProductManagement.Domain.Repositories;&#10;&#10;namespace ProductManagement.Application.Features.Product.Commands;&#10;&#10;public class CreateProductCommandHandler : IRequestHandler&lt;CreateProductCommand, Guid&gt;&#10;{&#10;    private readonly IProductRepository _productRepository;&#10;&#10;    public CreateProductCommandHandler(IProductRepository productRepository)&#10;    {&#10;        _productRepository = productRepository;&#10;    }&#10;&#10;    public async Task&lt;Guid&gt; Handle(CreateProductCommand request, CancellationToken cancellationToken)&#10;    {&#10;        var product = new Product(request.Name, request.Price, request.Stock);&#10;        await _productRepository.AddAsync(product, cancellationToken);&#10;        await _productRepository.SaveChangesAsync(cancellationToken);&#10;        return product.Id;&#10;    }&#10;}&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/bin/Debug/net9.0/ProductManagement.Domain.deps.json
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/bin/Debug/net9.0/ProductManagement.Domain.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/bin/Debug/net9.0/ProductManagement.Domain.pdb
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.AssemblyInfoInputs.cache
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.AssemblyInfo.cs
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.sourcelink.json
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/refint/ProductManagement.Domain.dll
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ProductManagement.Domain.pdb
+/Users/ebrutezel/Desktop/CleanArchSpecPatternDemo/Solution1/ProductManagement.Domain/obj/Debug/net9.0/ref/ProductManagement.Domain.dll
