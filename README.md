@@ -40,7 +40,7 @@ Bu proje aşağıdaki katmanlarla **Clean Architecture** prensiplerine uyar:
 ┌─────────────────────────────────────────┐
 │              WebAPI (Sunum)             │
 ├─────────────────────────────────────────┤
-│      Infrastructure (Veri Erişimi)     │
+│      Infrastructure (Veri Erişimi)      │
 ├─────────────────────────────────────────┤
 │       Application (İş Mantığı)          │
 ├─────────────────────────────────────────┤
@@ -122,7 +122,7 @@ Bu proje aşağıdaki katmanlarla **Clean Architecture** prensiplerine uyar:
 1. **Repository'yi klonlayın**
    ```bash
    git clone https://github.com/EbruTezel/CleanArchSpecPatternDemo.git
-   cd CleanArchSpecPatternDemo/Solution1
+   cd CleanArchSpecPatternDemo/ProductManagement
    ```
 
 2. **NuGet paketlerini yükleyin**
